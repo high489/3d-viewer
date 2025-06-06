@@ -18,6 +18,8 @@
       "@store/*": ["./src/app/store/*"],
       "@styles": ["./src/app/styles"],
       "@styles/*": ["./src/app/styles/*"],
+      "@utils": ["./src/app/utils"],
+      "@utils/*": ["./src/app/utils/*"],
       "@components": ["./src/components"],
       "@components/*": ["./src/components/*"],
       "@ui": ["./src/ui"],
